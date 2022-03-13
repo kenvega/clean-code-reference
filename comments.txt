@@ -1,0 +1,9 @@
+should you comment?
+  yes
+
+what to comment?
+  explain why doing something unexpected in the comment so future people can understand the decision made before that made this odd code solution
+
+sources
+
+  https://kentcdodds.com/blog/colocation#lets-talk-about-code-comments
